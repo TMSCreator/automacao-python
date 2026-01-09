@@ -8,7 +8,7 @@ Desenvolvo scripts em Python para automação e coleta de dados de sites.
 ## O que eu faço
 - Coleta de preços de produtos
 - Extração de dados para planilhas (CSV / Excel)
-- Automação com navegador (Dramaturgo)
+- Automação com navegador (Playwright))
 - Scripts soluções medida
 
 ## Exemplos
