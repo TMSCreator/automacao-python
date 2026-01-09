@@ -21,4 +21,6 @@ Desenvolvo scripts em Python para automação e coleta de dados de sites.
 - Ajustes básicos inclusos
 
 ## Contato
-📲 WhatsApp: SEU_NUMERO_AQUI
+WhatsApp: 31991363639
+Email: morais.thiago1998@gmail.com
+
