@@ -11,9 +11,10 @@ Desenvolvo scripts em Python para automatizar tarefas e coletar dados de sites, 
 - Automação com navegador (Playwright))
 - Scripts sob medida para cada necessidade
 
-## Exemplos
-- Bot que coleta títulos de sites de notícias
-- Bot que coleta nome e preço de produtos
+## Exemplos de projeto
+- Coletor de preços de produtos
+- Extrai nome e preço
+- Gera arquivo CSV compatível com Excel e Google Sheets
 
 ## Entrega
 - Código funcional
