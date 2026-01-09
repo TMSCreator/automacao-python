@@ -9,7 +9,7 @@ Desenvolvo scripts em Python para automatizar tarefas e coletar dados de sites, 
 - Coleta de preços de produtos
 - Extração de dados para planilhas (CSV / Excel)
 - Automação com navegador (Playwright))
-- Scripts soluções medida
+- Scripts sob medida para cada necessidade
 
 ## Exemplos
 - Bot que coleta títulos de sites de notícias
@@ -19,6 +19,10 @@ Desenvolvo scripts em Python para automatizar tarefas e coletar dados de sites, 
 - Código funcional
 - Arquivo CSV compatível com Excel e Planilhas Google
 - Ajustes básicos inclusos
+
+
+💡 Ideal para e-commerce, marketing digital, pesquisa de preços e tarefas repetitivas.
+
 
 ## Contato
 WhatsApp: 31991363639
