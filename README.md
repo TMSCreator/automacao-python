@@ -3,7 +3,7 @@ Scripts em Python para automação e coleta de dados web
 
 # Automação em Python – Coleta de Dados
 
-Desenvolvo scripts em Python para automação e coleta de dados de sites.
+Desenvolvo scripts em Python para automatizar tarefas e coletar dados de sites, entregando tudo em planilhas prontas para uso.
 
 ## O que eu faço
 - Coleta de preços de produtos
