@@ -50,5 +50,28 @@ Marketplaces como Mercado Livre, Shopee e Amazon utilizam carregamento dinâmico
 ## 📦 Como Usar
 
 1. Clone o repositório:
-```batedor
-clone git https://github.com/SEU_USUARIO/automacao-web-premium.git
+```bash
+git clone https://github.com/SEU_USUARIO/automacao-web-premium.git
+
+2. Instale as dependências:
+
+pip install -r requirements.txt
+
+3.Instale as dependências:
+
+pip install -r requirements.txt
+
+TOTALMENTE FUNCIONAL PRA EXPORTAR PRA EXE.
+
+
+📌 Objetivo do Projeto
+
+Projeto desenvolvido para aprendizado prático em:
+
+Automação de processos
+
+Coleta e tratamento de dados
+
+Interfaces gráficas
+
+Organização e exportação de dados
