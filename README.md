@@ -57,9 +57,8 @@ git clone https://github.com/SEU_USUARIO/automacao-web-premium.git
 
 pip install -r requirements.txt
 
-3.Instale as dependências:
 
-pip install -r requirements.txt
+
 
 TOTALMENTE FUNCIONAL PRA EXPORTAR PRA EXE.
 
