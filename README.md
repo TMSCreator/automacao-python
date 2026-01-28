@@ -1,37 +1,54 @@
-# Automação em Python – Coleta de Dados
+# Automação Web Premium+
 
-Desenvolvo scripts em Python para **automatizar tarefas repetitivas e coletar dados de sites**, entregando tudo organizado em **planilhas prontas para uso** (CSV / Excel / Google Sheets).
+Ferramento desktop em Python para coleta automatizada de informações e preços em sites públicos, com exportação automática para CSV e Excel.
 
-## 🚀 O que eu faço
-- Coleta de preços de produtos
-- Extração de dados de sites (nomes, valores, textos, listas)
-- Automação com navegador (Playwright)
-- Scripts sob medida para cada necessidade
-- Geração de arquivos CSV compatíveis com Excel e Google Sheets
+Projeto focado em automação simples, usabilidade e organização de dados, ideal para estudos, pequenas análises e processos administrativos.
 
-## 📊 Exemplo de projeto
-- **Coletor de preços de produtos**
-- Extrai nome e preço automaticamente de um site
-- Gera arquivo CSV pronto para análise
-- Pode ser adaptado para outros sites e estruturas
+---
 
-## 🧩 Como funciona
-1. Analiso o site desejado
-2. Desenvolvo a automação sob medida
-3. Entrego o script funcionando + arquivo em planilha
-4. Ajustes básicos incluídos
+## 🚀 Funcionalidades
 
-## 💡 Indicado para
-- E-commerces
-- Marketing digital
-- Pesquisa de preços
-- Comparação de concorrentes
-- Tarefas manuais repetitivas
+- Interface gráfica simples e profissional (Tkinter)
+- Busca por termo em páginas web públicas
+- Extração automática de preços (R$, $, £)
+- Ignora scripts, CSS e conteúdo invisível
+- Exportação automática para:
+  - CSV
+  - Excel (.xlsx)
+- Logs de execução em tempo real
+- Estrutura pronta para uso por usuários não técnicos
 
-## 📦 Entrega
-- Código funcional
-- Arquivo CSV (Excel / Google Sheets)
-- Automação rápida e direta
+---
 
-## 📲 Contato
-WhatsApp: 31991363639
+## 🖥️ Tecnologias Utilizadas
+
+- Python 3
+- Solicitações
+- LindaSopa4
+- Pandas
+- Tkinter
+- Regex
+
+---
+
+## 🌐 Exemplos de Sites Compatíveis
+
+Função melhor em sites **HTML estáticos ou semi-estáticos**, como:
+
+- https://books.toscrape.com
+- Blogs e sites institucionais
+- Páginas de destino
+- Catálogos simples
+- Sites de portfólio
+- Páginas de produtos sem carregamento via JavaScript
+
+⚠️ **Observação:**  
+Marketplaces como Mercado Livre, Shopee e Amazon utilizam carregamento dinâmico com JavaScript e não são compatíveis com esta versão.
+
+---
+
+## 📦 Como Usar
+
+1. Clone o repositório:
+```batedor
+clone git https://github.com/SEU_USUARIO/automacao-web-premium.git
