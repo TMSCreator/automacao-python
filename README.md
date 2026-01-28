@@ -24,7 +24,7 @@ Projeto focado em automação simples, usabilidade e organização de dados, ide
 
 - Python 3
 - Solicitações
-- LindaSopa4
+- BeautifulSoup4
 - Pandas
 - Tkinter
 - Regex
